@@ -1,0 +1,28 @@
+2020-04-07 21:53:42,097 org.hibernate.validator.internal.util.Version [background-preinit] (Version.java:21) INFO  --> HV000001: Hibernate Validator 6.0.18.Final
+2020-04-07 21:53:45,438 com.alibaba.druid.filter.FilterManager [main] (FilterManager.java:117) ERROR --> load filter error, filter not found : cofig
+2020-04-07 21:53:45,638 com.alibaba.druid.pool.DruidDataSource [main] (DruidDataSource.java:930) INFO  --> {dataSource-1} inited
+2020-04-07 21:59:39,824 com.alibaba.druid.pool.DruidDataSource [SpringContextShutdownHook] (DruidDataSource.java:1825) INFO  --> {dataSource-1} closed
+2020-04-07 21:59:49,750 org.hibernate.validator.internal.util.Version [background-preinit] (Version.java:21) INFO  --> HV000001: Hibernate Validator 6.0.18.Final
+2020-04-07 21:59:54,324 com.alibaba.druid.filter.FilterManager [main] (FilterManager.java:117) ERROR --> load filter error, filter not found : cofig
+2020-04-07 21:59:54,489 com.alibaba.druid.pool.DruidDataSource [main] (DruidDataSource.java:930) INFO  --> {dataSource-1} inited
+2020-04-07 22:13:49,837 com.alibaba.druid.pool.DruidDataSource [SpringContextShutdownHook] (DruidDataSource.java:1825) INFO  --> {dataSource-1} closed
+2020-04-07 22:14:00,404 org.hibernate.validator.internal.util.Version [background-preinit] (Version.java:21) INFO  --> HV000001: Hibernate Validator 6.0.18.Final
+2020-04-07 22:14:04,029 com.alibaba.druid.filter.FilterManager [main] (FilterManager.java:117) ERROR --> load filter error, filter not found : cofig
+2020-04-07 22:14:04,200 com.alibaba.druid.pool.DruidDataSource [main] (DruidDataSource.java:930) INFO  --> {dataSource-1} inited
+2020-04-07 22:15:59,130 com.alibaba.druid.pool.DruidDataSource [SpringContextShutdownHook] (DruidDataSource.java:1825) INFO  --> {dataSource-1} closed
+2020-04-07 22:16:08,370 org.hibernate.validator.internal.util.Version [background-preinit] (Version.java:21) INFO  --> HV000001: Hibernate Validator 6.0.18.Final
+2020-04-07 22:16:11,951 com.alibaba.druid.filter.FilterManager [main] (FilterManager.java:117) ERROR --> load filter error, filter not found : cofig
+2020-04-07 22:16:12,149 com.alibaba.druid.pool.DruidDataSource [main] (DruidDataSource.java:930) INFO  --> {dataSource-1} inited
+2020-04-07 22:16:44,536 com.alibaba.druid.pool.DruidDataSource [SpringContextShutdownHook] (DruidDataSource.java:1825) INFO  --> {dataSource-1} closed
+2020-04-07 22:16:55,391 org.hibernate.validator.internal.util.Version [background-preinit] (Version.java:21) INFO  --> HV000001: Hibernate Validator 6.0.18.Final
+2020-04-07 22:16:58,708 com.alibaba.druid.filter.FilterManager [main] (FilterManager.java:117) ERROR --> load filter error, filter not found : cofig
+2020-04-07 22:16:58,936 com.alibaba.druid.pool.DruidDataSource [main] (DruidDataSource.java:930) INFO  --> {dataSource-1} inited
+2020-04-07 22:18:07,413 com.alibaba.druid.pool.DruidDataSource [SpringContextShutdownHook] (DruidDataSource.java:1825) INFO  --> {dataSource-1} closed
+2020-04-07 22:18:17,882 org.hibernate.validator.internal.util.Version [background-preinit] (Version.java:21) INFO  --> HV000001: Hibernate Validator 6.0.18.Final
+2020-04-07 22:18:21,343 com.alibaba.druid.filter.FilterManager [main] (FilterManager.java:117) ERROR --> load filter error, filter not found : cofig
+2020-04-07 22:18:21,537 com.alibaba.druid.pool.DruidDataSource [main] (DruidDataSource.java:930) INFO  --> {dataSource-1} inited
+2020-04-07 22:24:33,818 com.alibaba.druid.pool.DruidDataSource [SpringContextShutdownHook] (DruidDataSource.java:1825) INFO  --> {dataSource-1} closed
+2020-04-07 22:24:44,741 org.hibernate.validator.internal.util.Version [background-preinit] (Version.java:21) INFO  --> HV000001: Hibernate Validator 6.0.18.Final
+2020-04-07 22:24:48,739 com.alibaba.druid.filter.FilterManager [main] (FilterManager.java:117) ERROR --> load filter error, filter not found : cofig
+2020-04-07 22:24:48,948 com.alibaba.druid.pool.DruidDataSource [main] (DruidDataSource.java:930) INFO  --> {dataSource-1} inited
+2020-04-07 22:25:14,241 com.alibaba.druid.pool.DruidDataSource [SpringContextShutdownHook] (DruidDataSource.java:1825) INFO  --> {dataSource-1} closed
